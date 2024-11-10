@@ -196,13 +196,6 @@ public:
         return current->value;
     }
 
-    DoableLinkedList& ReversList() {
-        for (size_t i = 0; i < Size()/2; i++)
-        {
-           
-        }
-        std::cout << [2] << std::endl;
-    }
 
 };
 
